@@ -1,6 +1,6 @@
 ### Hi there, I'm Serkan KURT. 👋
 
-I am a 4th year software engineering student at Manisa Celal Bayar University. I like to work on C#, Unity, Java and Python. I am open to innovations, I like technology and reading books.
+As an engineer who quickly adapts to new technologies and focuses on sustainable and modular software development, I strive for continuous improvement.
 
 🌱 I'm currently learning C#, Unity.
 
